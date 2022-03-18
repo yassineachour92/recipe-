@@ -5,7 +5,7 @@ import Veggie from './../components/veggie/Veggie';
 function Pages() {
   return (
     <div>
-    <div>Helle and Welcom</div>
+    <div>Helle and Welcome</div>
     <Veggie />
     <Popular /> 
     </div>
